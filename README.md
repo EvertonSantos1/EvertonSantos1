@@ -1,8 +1,8 @@
-- <strong><p style=''>👋 Oi eu sou  @EvertonSantos1</strong>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- <strong> Oi eu sou  @EvertonSantos1</strong>
+- 👀 Atualmente me Interesso por <strong>Desenvolvimento Web Back end em PHP e Front End Com <strong>HTML , CSS e Javascript </strong>
+- 🌱 Estudante / Desempregado
+  - 📫 Email para Contato <strong>3v3rton316@gmail.com</strong>
+  
 
 <!---
 EvertonSantos1/EvertonSantos1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
